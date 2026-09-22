@@ -1,0 +1,8 @@
+#BlueJ class context
+#Thu Sep 17 10:13:28 CEST 2026
+comment0.target=Aula
+comment0.text=\r\n Write a description of class Aula here.\r\n \r\n @author (your name) \r\n @version (a version number or a date)\r\n
+comment1.target=Aula()
+comment2.params=args
+comment2.target=void main(java.lang.String[])
+numComments=3

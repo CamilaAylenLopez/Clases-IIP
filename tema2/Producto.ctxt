@@ -1,0 +1,12 @@
+#BlueJ class context
+#Thu Sep 17 09:50:32 CEST 2026
+comment0.target=Producto
+comment1.params=nombre precio stock
+comment1.target=Producto(java.lang.String, double, int)
+comment2.params=unidades
+comment2.target=void registrarVenta(int)
+comment3.target=java.lang.String getNombre()
+comment4.params=newName
+comment4.target=void setNombre(java.lang.String)
+comment5.target=int getStock()
+numComments=6
