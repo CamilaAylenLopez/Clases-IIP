@@ -1,0 +1,18 @@
+#BlueJ class context
+#Thu Oct 01 10:46:31 CEST 2026
+comment0.target=Alumno
+comment1.params=nombre fechaNacimeinto curso nota
+comment1.target=Alumno(java.lang.String, java.util.Date, int, double)
+comment2.params=nombre
+comment2.target=void setNombre(java.lang.String)
+comment3.params=fechaNacimeinto
+comment3.target=void setFechaNacimeinto(java.util.Date)
+comment4.params=nota
+comment4.target=void setNota(double)
+comment5.params=curso
+comment5.target=void setCurso(int)
+comment6.target=java.lang.String getNombre()
+comment7.target=java.util.Date getFacheNacimiento()
+comment8.target=double getNota()
+comment9.target=int getCurso()
+numComments=10
