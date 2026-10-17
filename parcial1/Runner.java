@@ -58,7 +58,21 @@ public class Runner {
     }
     
     public boolean isYounger(Runner other){
-        return this.fechaNacimiento.before(other.fechaNacimiento);
+        return this.fechaNacimiento.compareTo(other.fechaNacimiento) > 0;
+    }
+    
+    @Override
+    public boolean equals(Object o){
+        return o instanceof Runner
+            && this.bib == ((Runner) o).bib
+            && this.distancia == ((Runner) o).distancia
+            && this.paisNacimiento.toUpperCase().equals(((Runner) o).paisNacimiento.toUpperCase());
+    }
+    
+    public String toString(){
+        return "Runner: " + nombre + " (" + paisNacimiento + "), bib " + 
+            bib + ", distance" + getHeightInMetersRounded() + " m, height " + altura +
+            " m, birth " + fechaNacimiento.toString();
     }
     
 }

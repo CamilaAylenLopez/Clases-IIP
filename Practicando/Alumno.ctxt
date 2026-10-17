@@ -1,0 +1,12 @@
+#BlueJ class context
+#Wed Oct 14 23:57:21 CEST 2026
+comment0.target=Alumno
+comment0.text=\r\n Write a description of class Alumno here.\r\n\r\n @author (your name)\r\n @version (a version number or a date)\r\n
+comment1.target=Alumno()
+comment2.params=nombre apellido dia mes anio curso nota
+comment2.target=Alumno(java.lang.String, java.lang.String, int, int, int, int, double)
+comment3.target=int cantAlumnos()
+comment4.params=other
+comment4.target=boolean equals(java.lang.Object)
+comment5.target=java.lang.String toString()
+numComments=6
