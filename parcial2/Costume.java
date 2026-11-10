@@ -51,7 +51,6 @@ public class Costume {
     
     public boolean isReleasedBefore(Costume other){
         return (this.releaseDate.compareTo(other.releaseDate)) < 0;
-        //return (other.releaseDate.compareTo(this.releaseDate)) > 0;
     }
     
     @Override

@@ -1,0 +1,13 @@
+#BlueJ class context
+#Tue Oct 27 08:52:23 CET 2026
+comment0.target=SaveGame
+comment0.text=\r\n Write a description of class SaveGame here.\r\n\r\n @author (your name)\r\n @version (a version number or a date)\r\n
+comment1.params=region identificador posicion t
+comment1.target=SaveGame(java.lang.String, int, int, int)
+comment2.target=java.lang.String toHHMM()
+comment3.params=other
+comment3.target=boolean equals(java.lang.Object)
+comment4.target=java.lang.String toString()
+comment5.params=o
+comment5.target=int compareTo(SaveGame)
+numComments=6

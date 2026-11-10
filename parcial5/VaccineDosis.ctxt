@@ -1,0 +1,13 @@
+#BlueJ class context
+#Wed Oct 28 14:13:48 CET 2026
+comment0.target=VaccineDosis
+comment0.text=\r\n Write a description of class VaccineDosis here.\r\n\r\n @author (your name)\r\n @version (a version number or a date)\r\n
+comment1.params=type dosis hh mm sip
+comment1.target=VaccineDosis(int, double, int, int, java.lang.String)
+comment2.target=VaccineDosis()
+comment3.params=o
+comment3.target=boolean equals(java.lang.Object)
+comment4.params=other
+comment4.target=int compareTo(VaccineDosis)
+comment5.target=java.lang.String toString()
+numComments=6

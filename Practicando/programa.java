@@ -104,6 +104,7 @@ public class programa {
                     String cadenaQ = "HOLA       ";
                     cadenaQ = cadenaQ.trim();
                     System.out.println("Última letra " + cadena.charAt(cadena.length() - 1)); //a
+                    //System.out.println("Última letra " + cadena.charAt(cadena.length())); //error
                     break;
                 case 8:
                     //clase alumno
@@ -115,6 +116,12 @@ public class programa {
                     System.out.println(a3.equals(a2));//false
                     System.out.println(a1.equals(a2));//true
                     break;
+                case 9:
+                    String wiwi = "012";
+                    System.out.println(wiwi.substring(2));
+                    System.out.println("aca " + wiwi.substring(wiwi.length() -2));
+                    System.out.println(wiwi.length());
+                break;
                 default:
                     System.out.println("No existe esa opción");
                     

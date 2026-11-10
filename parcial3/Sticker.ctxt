@@ -1,0 +1,14 @@
+#BlueJ class context
+#Fri Oct 23 11:30:35 CEST 2026
+comment0.target=Sticker
+comment0.text=\r\n Write a description of class Sticker here.\r\n\r\n @author (your name)\r\n @version (a version number or a date)\r\n
+comment1.params=name team rol height weight dia mes anio
+comment1.target=Sticker(java.lang.String, java.lang.String, int, int, double, int, int, int)
+comment2.target=Sticker()
+comment3.params=o
+comment3.target=boolean equals(java.lang.Object)
+comment4.target=boolean isIMCNormal()
+comment5.params=other
+comment5.target=boolean isYounger(Sticker)
+comment6.target=java.lang.String toString()
+numComments=7

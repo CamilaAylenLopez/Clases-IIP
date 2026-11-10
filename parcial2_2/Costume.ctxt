@@ -1,0 +1,17 @@
+#BlueJ class context
+#Sun Oct 25 23:34:35 CET 2026
+comment0.target=Costume
+comment0.text=\r\n Write a description of class Costume here.\r\n\r\n @author (your name)\r\n @version (a version number or a date)\r\n
+comment1.params=name type size weight price dia mes anio
+comment1.target=Costume(java.lang.String, int, java.lang.String, double, double, int, int, int)
+comment2.target=Costume()
+comment3.target=double getPrice()
+comment4.params=price
+comment4.target=void setPrice(double)
+comment5.target=boolean isLightWeight()
+comment6.params=other
+comment6.target=boolean isReleasedBefore(Costume)
+comment7.params=o
+comment7.target=boolean equals(java.lang.Object)
+comment8.target=java.lang.String toString()
+numComments=9
